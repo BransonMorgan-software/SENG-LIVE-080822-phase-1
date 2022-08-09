@@ -1,4 +1,5 @@
 //Data 
+console.log("Hello")
 const inventory = [
         {
             id:1,
